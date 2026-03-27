@@ -8,6 +8,7 @@
 - [x] 创建任务分解 `task_breakdown.json`
 
 ### 09:19 - 任务分发
+- [ ] 等待 main 提供 researcher/writer/reviewer 会话信息
 - [ ] researcher: 开始技术调研 (research-1 ~ research-4)
 - [ ] writer: 撰写各章节 (write-1 ~ write-4)
 - [ ] reviewer: 审核全稿 (review-1)
