@@ -55,9 +55,9 @@
 - 审核意见：comments/review_comments.md
 
 ### 09:52 - 生成最终报告
-- [ ] 合并四章 v2 为完整报告
-- [ ] 生成 Word 文档 (report_final.docx)
-- [ ] 提交并推送
+- [x] 合并四章 v2 为完整报告
+- [x] 生成 Word 文档 (report_final.docx)
+- [x] 提交并推送
 
 ---
 
