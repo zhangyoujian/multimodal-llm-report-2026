@@ -24,6 +24,7 @@
 - [x] writer 完成 write-4 (挑战与趋势章节) - chapter4_challenges_v1.md
 - [ ] 等待 reviewer 完成审核 (review-1)
 
----
-
-*由 coordinator 创建并维护*
+### 09:24 - reviewer 任务
+- [x] reviewer subagent 已运行（但当时 writer 尚未完成）
+- [ ] 需要重新触发 reviewer 审核
+- [x] 已重新触发 reviewer 审核 (review-1)
