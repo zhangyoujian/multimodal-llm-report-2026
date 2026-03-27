@@ -19,7 +19,9 @@
 
 - ✅ 项目初始化完成
 - ✅ 任务已分发给 researcher、writer、reviewer
-- ⏳ 等待 researcher 完成调研
+- ✅ researcher 完成调研 (research-1~4)
+- ✅ writer 完成撰写 (write-1~4)
+- 🔄 reviewer 审核中 (review-1)
 
 ## 协作者
 
