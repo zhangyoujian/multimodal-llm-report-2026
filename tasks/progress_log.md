@@ -22,12 +22,12 @@
 - [x] writer 完成 write-2 (典型模型章节) - chapter2_models_v1.md
 - [x] writer 完成 write-3 (应用场景章节) - chapter3_applications_v1.md
 - [x] writer 完成 write-4 (挑战与趋势章节) - chapter4_challenges_v1.md
-- [ ] 等待 reviewer 完成审核 (review-1)
+- [x] 等待 reviewer 完成审核 (review-1)
 
 ### 09:24 - reviewer 任务
 - [x] reviewer subagent 已运行（但当时 writer 尚未完成）
 - [x] 已重新触发 reviewer 审核 (review-1)
-- [ ] 等待 reviewer 完成
+- [x] reviewer 完成 review-1 (审核全稿 v2) - 09:43
 
 ### 09:28 - 调研数据已push
 - [x] researcher 调研任务完成并已push到仓库
