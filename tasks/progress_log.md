@@ -28,3 +28,10 @@
 - [x] reviewer subagent 已运行（但当时 writer 尚未完成）
 - [x] 已重新触发 reviewer 审核 (review-1)
 - [ ] 等待 reviewer 完成
+
+### 09:28 - 调研数据已push
+- [x] researcher 调研任务完成并已push到仓库
+  - research-1: tech_progress.md (技术进展)
+  - research-2: typical_models.md (典型模型)
+  - research-3: application_scenarios.md (应用场景)
+  - research-4: challenges_trends.md (挑战与趋势)
