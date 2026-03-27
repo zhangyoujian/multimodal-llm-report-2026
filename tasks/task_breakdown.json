@@ -76,7 +76,7 @@
       "role": "reviewer",
       "title": "审核全稿",
       "description": "审核完整报告的内容准确性、逻辑连贯性、表达清晰度",
-      "status": "in_progress",
+      "status": "completed",
       "depends_on": ["write-1", "write-2", "write-3", "write-4"]
     }
   ],

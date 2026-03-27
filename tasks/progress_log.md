@@ -36,4 +36,5 @@
   - research-3: application_scenarios.md (应用场景)
   - research-4: challenges_trends.md (挑战与趋势)
 - [ ] 等待 writer 完成撰写
+- [x] writer 完成撰写 (v1 + v2)
 - [ ] 等待 reviewer 完成审核
