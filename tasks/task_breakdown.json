@@ -8,35 +8,40 @@
       "role": "researcher",
       "title": "技术进展调研",
       "description": "调研2026年多模态大模型的技术进展，包括架构创新、训练方法、关键突破",
-      "status": "pending"
+      "status": "completed",
+      "file": "research_data/tech_progress.md"
     },
     {
       "id": "research-2",
       "role": "researcher",
       "title": "典型模型调研",
       "description": "调研GPT-4V、Gemini、Claude 3、Llama 3 Vision等典型多模态模型",
-      "status": "pending"
+      "status": "completed",
+      "file": "research_data/typical_models.md"
     },
     {
       "id": "research-3",
       "role": "researcher",
       "title": "应用场景调研",
       "description": "调研多模态大模型在各行业的应用场景和落地案例",
-      "status": "pending"
+      "status": "completed",
+      "file": "research_data/application_scenarios.md"
     },
     {
       "id": "research-4",
       "role": "researcher",
       "title": "挑战与趋势调研",
       "description": "调研当前面临的挑战（幻觉、推理成本、数据安全等）及未来发展趋势",
-      "status": "pending"
+      "status": "completed",
+      "file": "research_data/challenges_trends.md"
     },
     {
       "id": "write-1",
       "role": "writer",
       "title": "撰写技术进展章节",
       "description": "基于research-1调研结果撰写技术进展章节",
-      "status": "pending",
+      "status": "completed",
+      "file": "drafts/chapter1_technical_v1.md",
       "depends_on": ["research-1"]
     },
     {
@@ -44,7 +49,8 @@
       "role": "writer",
       "title": "撰写典型模型章节",
       "description": "基于research-2调研结果撰写典型模型章节",
-      "status": "pending",
+      "status": "completed",
+      "file": "drafts/chapter2_models_v1.md",
       "depends_on": ["research-2"]
     },
     {
@@ -52,7 +58,8 @@
       "role": "writer",
       "title": "撰写应用场景章节",
       "description": "基于research-3调研结果撰写应用场景章节",
-      "status": "pending",
+      "status": "completed",
+      "file": "drafts/chapter3_applications_v1.md",
       "depends_on": ["research-3"]
     },
     {
@@ -60,7 +67,8 @@
       "role": "writer",
       "title": "撰写挑战与趋势章节",
       "description": "基于research-4调研结果撰写挑战与趋势章节",
-      "status": "pending",
+      "status": "completed",
+      "file": "drafts/chapter4_challenges_v1.md",
       "depends_on": ["research-4"]
     },
     {
@@ -68,9 +76,10 @@
       "role": "reviewer",
       "title": "审核全稿",
       "description": "审核完整报告的内容准确性、逻辑连贯性、表达清晰度",
-      "status": "pending",
+      "status": "in_progress",
       "depends_on": ["write-1", "write-2", "write-3", "write-4"]
     }
   ],
-  "created_at": "2026-03-27T09:18:00Z"
+  "created_at": "2026-03-27T09:18:00Z",
+  "updated_at": "2026-03-27T09:28:00Z"
 }

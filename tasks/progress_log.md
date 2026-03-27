@@ -35,3 +35,5 @@
   - research-2: typical_models.md (典型模型)
   - research-3: application_scenarios.md (应用场景)
   - research-4: challenges_trends.md (挑战与趋势)
+- [ ] 等待 writer 完成撰写
+- [ ] 等待 reviewer 完成审核
