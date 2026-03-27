@@ -18,14 +18,15 @@
 ## 进度
 
 - ✅ 项目初始化完成
-- ⏳ 等待 researcher 开始调研
+- ✅ 任务已分发给 researcher、writer、reviewer
+- ⏳ 等待 researcher 完成调研
 
 ## 协作者
 
 - coordinator: 任务协调与分发
-- researcher: 调研工作
-- writer: 撰写工作
-- reviewer: 审核工作
+- researcher: 调研工作 (subagent)
+- writer: 撰写工作 (subagent)
+- reviewer: 审核工作 (subagent)
 
 ---
 
