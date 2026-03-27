@@ -26,5 +26,5 @@
 
 ### 09:24 - reviewer 任务
 - [x] reviewer subagent 已运行（但当时 writer 尚未完成）
-- [ ] 需要重新触发 reviewer 审核
 - [x] 已重新触发 reviewer 审核 (review-1)
+- [ ] 等待 reviewer 完成
