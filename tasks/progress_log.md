@@ -37,6 +37,7 @@
   - research-4: challenges_trends.md (挑战与趋势)
 - [x] writer 完成撰写 (v1 + v2)
 - [x] reviewer 完成审核 (review_comments.md)
+- [x] reviewer 审核报告已生成 (review-1_full_report.md)
 
 ---
 
