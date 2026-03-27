@@ -41,7 +41,7 @@
       "title": "撰写技术进展章节",
       "description": "基于research-1调研结果撰写技术进展章节",
       "status": "completed",
-      "file": "drafts/chapter1_technical_v1.md",
+      "file": "drafts/chapter1_technical_v2.md",
       "depends_on": ["research-1"]
     },
     {
@@ -50,7 +50,7 @@
       "title": "撰写典型模型章节",
       "description": "基于research-2调研结果撰写典型模型章节",
       "status": "completed",
-      "file": "drafts/chapter2_models_v1.md",
+      "file": "drafts/chapter2_models_v2.md",
       "depends_on": ["research-2"]
     },
     {
@@ -59,7 +59,7 @@
       "title": "撰写应用场景章节",
       "description": "基于research-3调研结果撰写应用场景章节",
       "status": "completed",
-      "file": "drafts/chapter3_applications_v1.md",
+      "file": "drafts/chapter3_applications_v2.md",
       "depends_on": ["research-3"]
     },
     {
@@ -68,7 +68,7 @@
       "title": "撰写挑战与趋势章节",
       "description": "基于research-4调研结果撰写挑战与趋势章节",
       "status": "completed",
-      "file": "drafts/chapter4_challenges_v1.md",
+      "file": "drafts/chapter4_challenges_v2.md",
       "depends_on": ["research-4"]
     },
     {
